@@ -1,32 +1,34 @@
 # Parkinson's Research Summary
 
-*Compiled October 5, 2026. Not medical advice — discuss with a doctor.*
+*Compiled October 5, 2026. Not medical advice — I'm not a licensed clinician. This is a plain-language summary of the latest published research and regulatory news.*
 
-## New Drug Approval: Tavapadon
+## The Big News: Tavapadon (FDA Approved September 28, 2026)
 
-- FDA approved September 28, 2026 — first genuinely new drug for early Parkinson's in decades
-- First-in-class D1/D5 dopamine agonist, once-daily oral pill
+- First-in-class **D1/D5 dopamine agonist**
+- Once-daily oral pill for early Parkinson's
 - TEMPO-2 trial: 9.1-point improvement in motor symptoms and daily function in newly diagnosed patients
+- First genuinely new drug for early-stage Parkinson's in decades beyond levodopa
 
-## Stem Cell Therapy: Aspen Neuroscience
+## Stem Cell Therapy: Aspen Neuroscience's Sasineprocel
 
-- Sasineprocel received FDA RMAT designation (fast-track regenerative medicine pathway)
-- Eight patients transplanted with dopamine neurons — no serious side effects
+- Received FDA's **RMAT designation** (Regenerative Medicine Advanced Therapy — the fast-track pathway)
+- Eight patients received transplanted dopamine neurons
+- No serious side effects reported
 - Six of seven patients cut their medication
 - Phase 3 trials starting later in 2026
 
-## Environmental Risk Factors
+## Environmental Causes Getting Sharper
 
-- UCLA's Beate Ritz: chlorpyrifos (widely used pesticide) more than doubles Parkinson's risk with long-term exposure
-- Paraquat now considered basically proven to cause Parkinson's
-- Gene-environment interaction: certain genetic variants are harmless alone but fail under pesticide stress, leading to toxic buildup in brain cells
+- UCLA's Beate Ritz: **chlorpyrifos** (a widely used pesticide) more than doubles Parkinson's risk with long-term exposure
+- **Paraquat** now considered basically proven to cause Parkinson's
+- Gene-environment interaction: certain genetic variants are harmless on their own but fail under pesticide stress, leading to toxic buildup in brain cells
 
-## Failed Trials (Sobering)
+## The Sobering Part: Failed Trials in 2026
 
-- LRRK2 inhibitor BIIB122 — failed phase 2, discontinued in first half of 2026
-- GCase modulator — failed phase 2, discontinued in first half of 2026
-- No disease-modifying therapy is approved yet
+- **BIIB122** (LRRK2 inhibitor) — failed phase 2, discontinued
+- **GCase modulator** — failed phase 2, discontinued
+- Most drug candidates don't succeed; no disease-modifying therapy is approved yet
 
 ## Bottom Line
 
-Real progress on symptoms (tavapadon) and early regenerative work (stem cells), but nothing yet proven to slow or stop the disease itself.
+The field is moving — new symptomatic drugs and regenerative approaches are advancing — but nothing yet proven to slow or stop the disease itself. Talk to a neurologist before making any treatment decisions.
